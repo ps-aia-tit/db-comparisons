@@ -1,5 +1,4 @@
-# db-comparisons
-db-comparisons-use-cases/
+db-comparisons/
 │
 ├── README.md
 ├── use-cases/
