@@ -1,1 +1,1 @@
-# queries Comparisions by DB
+# SQL Queries Comparisions by differnt types of DB
